@@ -1,0 +1,36 @@
+1) views
+  - Description:
+    - uses to display the the page that user can load new image.
+    - use to show and play jigsaw.
+  - view.php will contain code to render the landing page
+
+2) models
+  - Description:
+    - contain code to read and write data from file system.
+  - SetJigsawIndToServer will use to update the indexes of jigsaw after users swap.
+  - rndJigsawIndToServer will use to create new random jigsaw indexes after users win the game.
+
+3) controller
+
+4) resources
+  - Description:
+    - contain the images file that will use in this project
+  - active_image.jpg is the file that will use to draw a jigsaw
+  - active_image.txt is the file that contain current jigsaw indexes
+  - jigsaw.log is the file that we record the tie that user try to upload the new image
+
+5) style
+  - Description:
+    - contains CSS code that will use to render the page
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
