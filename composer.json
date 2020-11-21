@@ -1,0 +1,18 @@
+{
+    "name": "luksaweep/hw4",
+    "description": "Jigsaw game",
+    "authors": [
+        {
+            "name": "Luksawee Phansri",
+            "email": "luksawee@gmail.com"
+        }
+    ],
+    "require": {
+      "monolog/monolog" : ">=2.0.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "luksaweep\\hw4\\": ["src/"]
+        }
+    }
+}
