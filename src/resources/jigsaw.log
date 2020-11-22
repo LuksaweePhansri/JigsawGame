@@ -1,1 +1,6 @@
 [2020-11-22T00:02:33.458473-08:00] my_logger.INFO: Attempt to upload file [] []
+[2020-11-22T00:04:52.756437-08:00] my_logger.INFO: Attempt to upload file [] []
+[2020-11-22T00:05:07.206444-08:00] my_logger.INFO: Attempt to upload file [] []
+[2020-11-22T00:05:25.942940-08:00] my_logger.INFO: Attempt to upload file [] []
+[2020-11-22T00:05:36.938100-08:00] my_logger.INFO: Attempt to upload file [] []
+[2020-11-22T00:05:50.834900-08:00] my_logger.INFO: Attempt to upload file [] []
