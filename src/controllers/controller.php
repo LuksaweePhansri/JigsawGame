@@ -14,7 +14,7 @@ class Controller {
     if(isset($_POST["upload"])) {
       $layout = new Layout();
       $model = new Model();
-      $strUploadText = $mosdel->uploadImgToServer();
+      $strUploadText = $model->uploadImgToServer();
       $index = $model->getJigsawInd();
       $layout->jigsawLayout("jigsawView", $index, $strUploadText);
       $monolog = new Monolog();
