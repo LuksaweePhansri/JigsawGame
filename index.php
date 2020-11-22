@@ -10,4 +10,3 @@ use Monolog\Handler\FirePHPHandler;
 
 $controller = new Controller();
 $controller->jigsawController();
-echo "hello";
